@@ -9,7 +9,7 @@ int main() {
     int diff = calculator.Sub(a, b);
 
     std::cout << a << " + " << b << " = " << sum << std::endl;
-    std::cout << a << " + " << b << " = " << diff << std::endl;
+    std::cout << a << " - " << b << " = " << diff << std::endl;
 
     return 0;
 }
